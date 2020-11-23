@@ -378,6 +378,50 @@
       </section>
       <!-- End News Blocks -->
 
+      <!-- Clients -->
+      <section>
+        <div id="clients" class="js-carousel g-brd-top g-brd-bottom g-brd-gray-light-v4"
+             data-autoplay="true"
+             data-lazy-load="ondemand"
+             data-slides-show="6">
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img1.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img2.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img3.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img4.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img5.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img6.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img7.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img8.png" alt="Image description">
+          </div>
+
+          <div class="js-slide u-block-hover g-brd-left g-brd-gray-light-v4 g-py-50">
+            <img class="mx-auto g-width-120 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer" src= "{{asset('vendor/home')}}/assets/img-temp/200x100/img9.png" alt="Image description">
+          </div>
+        </div>
+      </section>
+      <!-- End Clients -->
 
       <a class="js-go-to u-go-to-v1" href="#"
          data-type="fixed"

@@ -55,6 +55,10 @@
     <script src="{{asset('vendor/home')}}/assets/js/components/hs.counter.js"></script>
     <script src="{{asset('vendor/home')}}/assets/js/components/hs.chart-pie.js"></script>
     <script src="{{asset('vendor/home')}}/assets/js/components/hs.go-to.js"></script>
+
+    <!-- JS Unify 2 -->
+    <script src="{{asset('vendor/home')}}/assets/js/components/hs.carousel.js"></script>
+    <script src="{{asset('vendor/home')}}/assets/js/components/hs.header.js"></script>
     
 
     <script src="{{asset('vendor/home')}}/assets/vendor/appear.js"></script>
@@ -279,3 +283,55 @@
         }, 200);
       });
 </script>
+
+<!-- JS Plugins Init. new -->
+<script>
+      $(document).on('ready', function () {
+        // initialization of carousel
+        $.HSCore.components.HSCarousel.init('.js-carousel');
+
+        $('#clients').slick('setOption', 'responsive', [{
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2
+          }
+        }], true);
+
+        // initialization of tabs
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+
+        // initialization of text animation (typing)
+        $(".u-text-animation.u-text-animation--typing").typed({
+          strings: [
+            "awesome",
+            "creative",
+            "unify"
+          ],
+          typeSpeed: 60,
+          loop: true,
+          backDelay: 1500
+        });
+
+        // initialization of go to
+        $.HSCore.components.HSGoTo.init('.js-go-to');
+      });
+
+      $(window).on('load', function () {
+        // initialization of header
+        $.HSCore.components.HSHeader.init($('#js-header'));
+        $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+        // initialization of HSMegaMenu component
+        $('.js-mega-menu').HSMegaMenu({
+          event: 'hover',
+          pageContainer: $('.container'),
+          breakpoint: 991
+        });
+      });
+
+      $(window).on('resize', function () {
+        setTimeout(function () {
+          $.HSCore.components.HSTabs.init('[role="tablist"]');
+        }, 200);
+      });
+    </script>
