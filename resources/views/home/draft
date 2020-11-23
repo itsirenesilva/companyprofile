@@ -1,0 +1,144 @@
+                  <!-- Section Content -->
+                  <section id="FAQ" class="g-py-90">
+        <div class="container">
+          <div class="text-uppercase g-line-height-1_3 g-mb-20">
+            <h4 class="g-font-weight-700 g-font-size-11 g-mb-15"><span class="g-color-primary">Kapabilitas</span> Kami</h4>
+            <h2 class="g-font-size-36 mb-0">Apa yang bisa <strong>kami kerjakan?</strong></h2>
+          </div>
+
+          <p class="g-mb-65">Dengan tim yang berpengalaman dan berkualifikasi, kami mampu memberikan pelayanan jasa yang luas dan komprehensif kepada pelanggan kami.</p>
+
+          <!-- Nav tabs -->
+          <ul class="nav u-nav-v5-1 text-uppercase g-line-height-1_4 g-font-weight-700 g-font-size-11 g-brd-bottom--md g-brd-gray-light-v4" role="tablist"
+              data-target="FAQTabs"
+              data-tabs-mobile-type="slide-up-down"
+              data-btn-classes="btn btn-md u-btn-primary btn-block rounded-0 u-btn-outline-lightgray">
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md active" data-toggle="tab" href="#everything" role="tab">Filtrasi dan Purifikasi</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#login" role="tab">Kontrol Varnish Oli</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#security" role="tab">Sistem Akumulator</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#privacyPolicy" role="tab">Hidrolik dan Lubrikasi</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#support" role="tab">Sistem Pemipaan</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#support" role="tab">Service Flushing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#support" role="tab">Penyewaan Alat</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#support" role="tab">Monitoring Kondisi</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#support" role="tab">Training Engineering Fluida</a>
+            </li>
+          </ul>
+          <!-- End Nav tabs -->
+
+          <!-- Tab panes -->
+          <div id="FAQTabs" class="tab-content g-pt-20">
+            <div class="tab-pane fade show active" id="everything" role="tabpanel">
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Integer ut sollicitudin justo</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Maecenas ac nulla vehicula risus pulvinar feugiat ullamcorper sit amet mi</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Praesent blandit hendrerit justo sed egestas</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+            </div>
+
+            <div class="tab-pane fade" id="login" role="tabpanel">
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Login FAQ</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Login FAQ 2</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Login FAQ 3</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+            </div>
+
+            <div class="tab-pane fade" id="security" role="tabpanel">
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 2</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 3</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 4</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+            </div>
+
+            <div class="tab-pane fade" id="privacyPolicy" role="tabpanel">
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Privacy policy FAQ</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Privacy policy 2</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+            </div>
+
+            <div class="tab-pane fade" id="support" role="tabpanel">
+              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
+                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Support FAQ</h4>
+                <p class="g-font-size-default g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
+                <a class="text-uppercase g-font-size-11" href="#"><strong>Read more</strong></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Section Content -->
