@@ -1,190 +1,772 @@
 <!DOCTYPE html>
-<html lang="id">
-<title>TeknoFluida</title>
+<html lang="en">
+<title>Tentang Kami | TeknoFluida</title>
 @include('home.partials.head')
-
   <body>
     <main>
 @include('home.partials.header')
-    
-                  <!-- Section Content -->
-                  <section id="FAQ" class="g-py-90">
-        <div class="container">
-          <div class="text-uppercase g-line-height-1_3 g-mb-20">
-            <h4 class="g-font-weight-700 g-font-size-11 g-mb-15"><span class="g-color-primary">Kapabilitas</span> Kami</h4>
-            <h2 class="g-font-size-36 mb-0">Apa yang bisa <strong>kami kerjakan?</strong></h2>
+
+      <!-- Promo Block -->
+      <section class="g-flex-centered g-bg-pos-center g-bg-img-hero g-pos-rel g-z-index-1 g-overflow-hidden" style="background-image: url(../../assets/img-temp/1920x1080/img14.jpg);" data-calc-target="#js-header">
+        <div class="g-pos-abs g-top-0 g-left-0"
+             data-animation="fadeInDown"
+             data-animation-delay="100"
+             data-animation-duration="1500">
+          <img class="img-fluid" src="{{asset('vendor/business')}}/assets/img-temp/1600x1075/img1.jpg" alt="Image Description">
+        </div>
+        <div class="g-pos-abs g-bottom-0 g-right-0"
+             data-animation="fadeInUp"
+             data-animation-delay="1800"
+             data-animation-duration="1500">
+          <img class="img-fluid" src="{{asset('vendor/business')}}/assets/img-temp/1600x1075/img1.jpg" alt="Image Description">
+        </div>
+
+        <div class="container text-center g-z-index-1">
+          <div class="mb-4">
+            <h1 class="h2 d-inline-block g-color-black g-font-weight-700 g-font-size-40 g-font-size-75--md text-uppercase g-line-height-1"
+                data-animation="fadeInDown"
+                data-animation-delay="1000"
+                data-animation-duration="1500">The</h1>
+            <h2 class="h2 d-inline-block g-color-black g-font-weight-700 g-font-size-40 g-font-size-75--md text-uppercase g-line-height-1"
+                data-animation="fadeInDown"
+                data-animation-delay="1200"
+                data-animation-duration="1500">Green</h2>
+            <h2 class="h2 d-inline-block g-color-primary g-font-weight-700 g-font-size-40 g-font-size-75--md text-uppercase g-line-height-1"
+                data-animation="fadeInDown"
+                data-animation-delay="1400"
+                data-animation-duration="1500">Unify</h2>
           </div>
 
-          <p class="g-mb-65">Dengan tim yang berpengalaman dan berkualifikasi, kami mampu memberikan pelayanan jasa yang luas dan komprehensif kepada pelanggan kami.</p>
+          <div class="mx-auto g-max-width-600 g-overflow-hidden">
+            <p class="g-color-black g-font-size-18 g-font-size-24--md g-mb-40"
+               data-animation="fadeInDown"
+               data-animation-delay="1600"
+               data-animation-duration="1500">
+              Unify is creative technology company providing key digital services on web and mobile. We minimize the gap between technology and its audience.
+            </p>
+          </div>
 
-          <!-- Nav tabs -->
-          <ul class="nav u-nav-v5-1 text-uppercase g-line-height-1_4 g-font-weight-700 g-font-size-11 g-brd-bottom--md g-brd-gray-light-v4" role="tablist"
-              data-target="FAQTabs"
-              data-tabs-mobile-type="slide-up-down"
-              data-btn-classes="btn btn-md u-btn-primary btn-block rounded-0 u-btn-outline-lightgray">
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md active" data-toggle="tab" href="#filtrasi" role="tab">Filtrasi dan Purifikasi</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#varnisholi" role="tab">Kontrol Varnish Oli</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#pendingin" role="tab">Sistem Pendingin</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#akumulator" role="tab">Sistem Akumulator</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#hidrolik" role="tab">Hidrolik dan Lubrikasi</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#pemipaan" role="tab">Sistem Pemipaan</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#flushing" role="tab">Service Flushing</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#sewa" role="tab">Penyewaan Alat</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#monitoring" role="tab">Monitoring Kondisi</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link g-px-0--md g-pb-15--md g-mr-30--md" data-toggle="tab" href="#training" role="tab">Training Engineering Fluida</a>
-            </li>
-          </ul>
-          <!-- End Nav tabs -->
+          <div
+               data-animation="fadeInDown"
+               data-animation-delay="2000"
+               data-animation-duration="1500">
+            <a class="btn btn-lg u-btn-outline-black g-font-weight-600 g-font-size-13 text-uppercase g-rounded-50 mx-2 g-px-25 g-py-15" href="#">Discover More</a>
+            <a class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-50 mx-2 g-px-25 g-py-15" href="#">Purchase Now</a>
+          </div>
+        </div>
+      </section>
+      <!-- End Promo Block -->
 
-          <!-- Filtrasi -->
-          <div id="FAQTabs" class="tab-content g-pt-20">
-            <div class="tab-pane fade show active" id="filtrasi" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
 
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Filtrasi</h4>
-                <img class="img-fluid u-shadow-v21" src="{{asset('vendor/home')}}/assets/img-temp/400x270/img1.jpg" alt="Image Description">
-              <br></br>
-                <p class="g-font-size-default g-mb-30">Kami berkomitmen untuk memberikan kepada pelanggan-pelanggan kami solusi filtrasi terbaik di bidang Proses Teknologi, Sistem Fluida dan Udara Industri. Kami menawarkan filter beserta peralatan dan sistem untuk membersihkan dan memproses oli-oli industri dan pelumas-pelumas, filtrasi partikel dari udara dan gas, filtrasi diesel serta filtrasi air.</p>
+      <!-- ABOUT US, VISI, MISI, SERVICE -->
+      <section id="about" class="container-fluid px-0">
+        <div class="row no-gutters">
+          <div class="hidden-lg-down col-lg-4 g-bg-img-hero" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1920/img2.jpg);"></div>
+
+          <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-blue-dark-v1">
+            <div class="text-center g-color-gray-light-v2 g-pa-30">
+              <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
+                <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">TEKNOFLUIDA</h4>
+                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">TENTANG KAMI
+                  </h2>
               </div>
 
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Purifikasi Oli</h4>
-                <p class="g-font-size-default g-mb-30">Kami ahli di dalam memberikan solusi untuk menghilangkan partikel dan air dari oli lubrikasi, oli hidrolik, diesel and fluida hidrokarbon lainnya. Vacuum Oil Purifier kami dapat digunakan secara efektif untuk menghilangkan partikel, air, gas dan mengoptimalkan kondisi fluida. Kami juga menawarkan pelanggan-pelanggan kami oil conditioning systems, yang dapat digunakan secara cepat dan efektif untuk menghilangkan air dan partikel dari oli turbin.</p>
-              </div>
+              <p align="justify" class="g-color-gray-light-v2 mb-0">PT. Tekno Fluida Indonesia adalah perusahaan yang memiliki tenaga-tenaga professional berkualitas dengan total pengetahuan dan pengalaman kolektif lebih dari 25 tahun di bidang industri teknologi fluida. Kami menjual peralatan kebutuhan industri, memberikan jasa engineering serta desain dan integrasi. Spesialisasi kami adalah mendesain dan mengintegrasi produk-produk ke dalam sistem teknologi fluida.</p>
             </div>
+          </div>
 
-            <!-- Varnish Oli -->
-            <div class="tab-pane fade" id="varnisholi" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Kontrol Kontaminasi</h4>
-                <p class="g-font-size-default g-mb-30">Kami mempunyai kapabilitas untuk memberikan Anda teknologi mitigasi varnish terdepan untuk mengontrol kontaminasi-kontaminasi di sistem lubrikasi vital Anda. Dengan teknologi ESP dari Fluitec memungkinkan Anda untuk menghilangkan mayoritas kontaminasi-kontaminasi yang paling merusak di dalam fluida Anda dan memperpanjang aset pelumas Anda serta meningkatkan efisiensi pabrik dan waktu operasi.</p>
+          <div class="col-md-6 col-lg-4 g-theme-bg-blue-dark-v2">
+            <div class="js-carousel g-pb-90"
+                 data-infinite="true"
+                 data-slides-show="true"
+                 data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-30">
+              <div class="js-slide">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img1.jpg" alt="Image description">
+
+                <div class="g-pa-30">
+                  <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">VISI</h3>
+                  <p class="g-color-gray-light-v2 g-mb-10">Menjadi perusahaan engineering yang berkompeten dan dapat diandalkan di bidang teknologi fluida untuk seluruh pelanggan kami di seluruh Indonesia.</p>
+                </div>
               </div>
 
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Monitor Degradasi Oli dan Varnish</h4>
-                <p class="g-font-size-default g-mb-30">Implementasi rencana untuk memonitor kesehatan dari oli dan sistem Anda merupakan faktor yang sangat penting untuk memastikan bahwa pelumas Anda terlindungi dari degradasi yang berlebihan. Dengan basis dari analisa-analisa oli, kami mampu memonitor proses degradasi oli. Tim kami menawarkan dukungan teknis terbaik dan berbagai referensi program-program memonitor kontaminasi.</p>
+              <div class="js-slide">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img2.jpg" alt="Image description">
+
+                <div class="g-pa-30">
+                  <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">MISI</h3>
+                  <p class="g-color-gray-light-v2 g-mb-10">Dengan keseluruhan pengetahuan teknis dan keahlian engineering, kami selalu berupaya untuk memberikan pelayanan yang lebih dari ekspektasi di industri ini. Kami memberikan solusi teknik dengan kualitas terbaik, menyediakan dukungan dan servis yang terbaik.</p>
+                </div>
               </div>
 
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Peningkatan Mutu Fluida</h4>
-                <p class="g-font-size-default g-mb-30">Fluitec telah menciptakan teknologi paten yang dapat menambah anti oksidan yang telah terdegradasi di dalam oli - mengganti kimiawi yang buruk dengan kimiawi baik. Boost AO dapat melipatgandakan umur oli Anda dengan meregenerasi anti oksidan kritis di sistem Anda. Boost VR  adalah sebuah metode yang lebih aman dan murah untuk menghilangkan varnish dan deposit di sistem lubrikasi Anda.</p>
-              </div>
-            </div>
+              <div class="js-slide">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img3.jpg" alt="Image description">
 
-            <!-- Sistem Pendingin -->
-            <div class="tab-pane fade" id="pendingin" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Sistem Pendingin</h4>
-                <p class="g-font-size-default g-mb-30">Temperatur dari fluida memegang peranan penting didalam mengoperasikan sistem hidrolik dan lubrikasi pada efisiensi optimalnya. Panas yang berlebihan atau sistem pendingin yang berlebihan dapat menyebabkan kebocoran yang tak terduga, biaya operasional yang tinggi, biaya perawatan yang tinggi dan kehilangan produktifitas.
-Staff kami yang mumpuni dan berpengalaman akan membantu Anda untuk memilih teknologi pendingin yang tepat. Kami akan bekerja dengan optimal untuk memastikan bahwa sistem pendingin bisa berjalan dengan sangat efisien dan efektif.</p>
-              </div>
-            </div>
-
-            <!-- Akumulator -->
-            <div class="tab-pane fade" id="akumulator" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Akumulator</h4>
-                <p class="g-font-size-default g-mb-30">Kami mempunyai pengalaman di 3 jenis akumulator utama - tipe bladder, tipe diafragma dan tipe piston, kami memberikan konsultasi yang komperensif kepada pelanggan-pelanggan kami didalam memilih tipe akumulator dan menentukan model akumulator yang tepat.</p>
-              </div>
-
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Servis Akumulator</h4>
-                <p class="g-font-size-default g-mb-30">Teknisi kami yang berpengalaman dan mumpuni mempunyai kemampuan untuk memelihara dan memperbaiki mayoritas akumulator-akumulator hidrolik yang ada. Jika Anda mempunyai masalah dengan akumulator Anda di mana pun di Indonesia, Anda dapat menghubungi kami dan kami akan memperbaikinya. Gunakan kesempatan ini untuk mendapatkan pelayanan terbaik dari kemampuan dan pengetahuan kami.</p>
-              </div>
-
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Aksesoris Akumulator</h4>
-                <p class="g-font-size-default g-mb-30">Kami juga menawarkan aksesoris akumulator, perlengkapan-perlengkapan instalasi dan peralatan keamanan untuk kenyamanan dan keamanan Anda. Kami selalu di sini untuk membantu Anda.</p>
-              </div>
-            </div>
-
-            <!-- Hidrolik -->
-            <div class="tab-pane fade" id="hidrolik" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Hidrolik dan Lubrikasi</h4>
-                <p class="g-font-size-default g-mb-30">Tim engineering kami merupakan spesialis didalam merancang dan memproduksi sistem hidrolik dan lubrikasi standard atau khusus. Kami mempunyai spesialis yang kompeten dan memliki variasi produk yang luas.
-Unit-unit hidrolik dan lubrikasi yang kami buat, dirancang dan diproduksi secara internal menggunakan teknologi termutahir. Setiap unit yang kami kirim dilengkapi dengan sirkuit diagram dan daftar material yang lengkap. Kami juga dapat memberikan jasa instalasi, dukungan pengujian operasional, servis dan perawatan dari sistem di lokasi jika dibutuhkan. Anda tinggal memberikan spesifikasi-spesifikasi yang diperlukan dan kami akan menentukan solusi terbaik untuk memenuhi kebutuhan Anda.</p>
-              </div>
-            </div>
-
-            <!-- Pemipaan -->
-            <div class="tab-pane fade" id="pemipaan" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Pemipaan</h4>
-                <p class="g-font-size-default g-mb-30">Kami menyediakan jasa yang berkualitas dan efisien untuk instalasi pipa hidrolik dan lubrikasi, mulai dari konsep sampai pengujian operasional, yang mencakup desain, supervisi, perakitan, instalasi, tes tekanan dan flushing. 
-Berikan kami kesempatan untuk melayani Anda dan kami akan menunjukkan kepada Anda mengapa pelanggan-pelanggan kami menghubungi TeknoFluida untuk permintaan-permintaan pipa, katup dan perlengkapan mereka!</p>
-              </div>
-            </div>
-
-            <!-- Flushing -->
-            <div class="tab-pane fade" id="flushing" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Mechanical Flushing</h4>
-                <p class="g-font-size-default g-mb-30">TeknoFluida memberikan jasa flushing oli dengan kecepatan tinggi, menggunakan oli panas yang mengalir turbulen untuk membersihkan partikel-partikel dan kontaminasi dari dalam pipa dan komponen di sistem.</p>
-              </div>
-
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Chemical Flushing</h4>
-                <p class="g-font-size-default g-mb-30">Dengan chemical cleaning / pickling kami memastikan bahwa residu kontaminasi dan campuran kimia dari partikel-partikel karat dan korosif tidak mengkontaminasi oli dan merusak komponen-komponen.</p>
-              </div>
-
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Solubility Enhanced System Cleaning</h4>
-                <p class="g-font-size-default g-mb-30">Kami juga menawarkan aksesoris akumulator, perlengkapan-perlengkapan instalasi dan peralatan keamanan untuk kenyamanan dan keamanan Anda. Kami selalu di sini untuk membantu Anda.</p>
-              </div>
-            </div>
-
-            <!-- Sewa -->
-            <div class="tab-pane fade" id="sewa" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Penyewaan Alat</h4>
-                <p class="g-font-size-default g-mb-30">Pada saat peralatan dibutuhkan hanya untuk masa waktu yang singkat, misalnya pada peralatan spesial atau peralatan yang harganya sangat mahal, sewa mungkin akan menjadi solusi yang paling mudah dan yang paling ekonomis untuk para pengguna. TeknoFluida dapat menawarkan paket sewa, satu alternatif yang lebih ekonomis bila dibandingkan dengan pengadaan peralatan khusus yang membutuhkan biaya yang besar dalam waktu yang singkat.
-Beberapa pelanggan-pelanggan kami pada awalnya mengambil kesempatan untuk mencoba kualitas produk dan pelayanan kami melalui sewa, sebelum mereka akhirnya memutuskan untuk membeli produk kami.
-Jika Anda membutuhkan purifier, peralatan tes, sistem filtrasi mobile atau unit flushing, kami siap membantu Anda untuk memberikan saran dan servis yang Anda minta. Paket sewa yang kami tawarkan mencakup dukungan teknis selama instalasi dan pengujian operasional.
-Silahkan menghubungi kami untuk menanyakan ketersediaan, spesifikasi teknis dan harga-harga sewa dari peralatan kami.</p>
-              </div>
-            </div>
-
-            <!-- Monitoring -->
-            <div class="tab-pane fade" id="monitoring" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Monitoring Kondisi</h4>
-                <p class="g-font-size-default g-mb-30">Di TeknoFluida kami mengerti bahwa pencegahan lebih baik dari "penyembuhan". 
-Monitoring kondisi adalah bagian yang sangat penting dari kesehatan sistem hidrolik atau lubrikasi. Tim kami akan memberikan kepada Anda solusi monitoring kondisi yang modern, yang akan dapat menaikkan produktifias, menurunkan biaya operasi dan mengoptimalkan performa peralatan.
-Kami dapat menganalisa permasalahan Anda dan menawarkan peralatan monitoring kondisi yang komprehensif, yang berasal dari merek-merek berkualitas terdepan di dunia.</p>
-              </div>
-            </div>
-
-            <!-- Training -->
-            <div class="tab-pane fade" id="training" role="tabpanel">
-              <div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-                <h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Training Engineering Fluida</h4>
-                <p class="g-font-size-default g-mb-30">Kami mengerti bahwa sangat penting bagi kami untuk tidak hanya menjual komponen-komponen dan service terbaik, akan tetapi juga menjual kompetensi. Kami membagikan pengetahuan dan memberikan edukasi dan training kepada pelanggan-pelanggan kami.</p>
+                <div class="g-pa-30">
+                  <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">SERVICE</h3>
+                  <p class="g-color-gray-light-v2 g-mb-10">Dalam menjalin kerjasama dengan pelanggan, kami mendedikasikan diri sepenuhnya untuk selalu mencari solusi yang paling efektif dan untuk tetap melakukan penyempurnaan di setiap masalah dari unit-unit engineering di pelanggan kami.</p>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <!-- End Section Content -->
+      <!-- End Section ABOUT US, VISI, MISI, SERVICE -->
+
+      <!-- WHY US? -->
+      <section id="processes" class="g-theme-bg-blue-dark-v1 g-py-80">
+        <div class="container text-center g-width-780 g-color-gray-light-v2 g-mb-60">
+          <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
+            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Memberikan Service terbaik</h4>
+            <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">Mengapa Memilih Kami?</h2>
+          </div>
+
+          <p class="g-color-gray-light-v2 mb-0">Keinginan pelanggan adalah prioritas dan sumber inspirasi kami. Seluruh staff dan karyawan kami berkomitmen untuk memberikan pelayanan yang terbaik agar dapat selalu memenuhi keinginan dan kepuasan pelanggan kami.</p>
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 g-px-30 g-mb-40">
+              <!-- Icon Blocks -->
+              <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
+                <div class="hidden-xs-down g-absolute-centered--y g-left-0">
+                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
+                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img1.jpg);"></span>
+                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
+                      <i class="icon-fire"></i>
+                    </span>
+                  </div>
+                </div>
+
+                <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">1. PENGHEMATAN BIAYA</h3>
+                <p class="g-color-gray-light-v2 mb-0">Dimulai dari tahap perencanaan, konstruksi sampai kepada tahap pemeliharaan, kami menerapkan sistem pengadaan barang yang komprehensif, yang memungkinkan pelanggan untuk mendapatkan penawaran yang terbaik dan dengan keuntungan finansial dalam jangka panjang.</p>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-lg-6 g-px-30 g-mb-40">
+              <!-- Icon Blocks -->
+              <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
+                <div class="hidden-xs-down g-absolute-centered--y g-left-0">
+                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
+                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img2.jpg);"></span>
+                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
+                      <i class="icon-energy"></i>
+                    </span>
+                  </div>
+                </div>
+
+                <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">2. DAPAT DIANDALKAN</h3>
+                <p class="g-color-gray-light-v2 mb-0">Team marketing dan service kami akan mendampingi pelanggan sebelum, selama dan sesudah proyek. Perencanaan, instalasi dan prosedur eksekusi dapat dilakukan oleh Team engineering kami yang berpengalaman dan ahli dibidangnya.</p>
+                <br>              
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+
+          <!-- Icon Blocks -->
+          <div class="row g-mb-50">
+            <div class="col-lg-6 g-px-30 g-mb-40">
+              <!-- Icon Blocks -->
+              <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
+                <div class="hidden-xs-down g-absolute-centered--y g-left-0">
+                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
+                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img3.jpg);"></span>
+                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
+                      <i class="icon-rocket"></i>
+                    </span>
+                  </div>
+                </div>
+
+                <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">3. KEAMANAN DAN KUALITAS</h3>
+                <p class="g-color-gray-light-v2 mb-0">Kami berusaha memberikan desain, solusi dan implementasi sistem yang aman dan berkualitas baik. Kualitas sistem yang kami ajukan harus dapat melewati tes ketahanan dan masa aktif (life time).</p>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-lg-6 g-px-30 g-mb-40">
+              <!-- Icon Blocks -->
+              <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
+                <div class="hidden-xs-down g-absolute-centered--y g-left-0">
+                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
+                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img4.jpg);"></span>
+                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
+                      <i class="icon-layers"></i>
+                    </span>
+                  </div>
+                </div>
+
+                <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">4. MITRA KEPERCAYAAN</h3>
+                <p class="g-color-gray-light-v2 mb-0">Komitmen utama kami adalah membangun hubungan baik dan dalam jangka waktu lama dengan pelanggan-pelanggan dan supplier-supplier kami, dengan berlandaskan kepercayaan dan keuntungan bersama.</p>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+      </section>
+      <!-- End WHY US? -->
+
+      <!-- CERTIFICATION -->
+      <section id="services" class="g-py-80">
+        <div class="container">
+          <div class="text-uppercase text-center u-heading-v2-4--bottom g-brd-primary g-mb-80">
+            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">title</h4>
+            <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">CERTIFICATION</h2>
+          </div>
+
+          <!-- Icon Blocks -->
+          <div class="row no-gutters">
+            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--lg g-transition-0_2 g-transition--ease-in">
+              <!-- Icon Blocks -->
+              <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
+                <span class="d-block g-color-primary g-font-size-40 g-mb-15">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                </span>
+                <h3 class="h5 text-uppercase g-color-black g-mb-10">Analisys</h3>
+
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+              <!-- Icon Blocks -->
+              <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
+                <span class="d-block g-color-primary g-font-size-40 g-mb-15">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                </span>
+                <h3 class="h5 text-uppercase g-color-black g-mb-10">Strategy</h3>
+
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+              <!-- Icon Blocks -->
+              <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
+                <span class="d-block g-color-primary g-font-size-40 g-mb-15">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                </span>
+                <h3 class="h5 text-uppercase g-color-black g-mb-10">Social media</h3>
+                
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+              <!-- Icon Blocks -->
+              <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
+                <span class="d-block g-color-primary g-font-size-40 g-mb-15">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                </span>
+                <h3 class="h5 text-uppercase g-color-black g-mb-10">Marketing</h3>
+
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+              </div>
+              <!-- End Icon Blocks -->
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+        </div>
+      </section>
+      <!-- End CERTIFICATION -->
+
+      <!-- ACHIEVEMENT -->
+      <section id="projects" class="g-pt-115 g-pb-80">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 g-mb-40 g-mb-0--lg">
+              <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
+                <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">title</h4>
+                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">ACHIEVEMENT</h2>
+              </div>
+
+              <p class="g-mb-10">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem, vel faucibus ante. Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor lorem eros vel odio.</p>
+              <p class="mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio. Vivamus at risus quis leo tincidunt scelerisque non et erat.</p>
+            </div>
+
+            <div class="col-lg-8">
+              <div id="carouselCus1" class="js-carousel g-line-height-0"
+                   data-infinite="true"
+                   data-speed="5000"
+                   data-rows="2"
+                   data-slides-show="2"
+                   data-arrows-classes="u-arrow-v1 g-pos-abs g-bottom-100x g-right-0 g-width-35 g-height-35 g-font-size-default g-color-gray g-color-white--hover g-bg-gray-light-v5 g-bg-primary--hover g-mb-5 g-transition-0_2 g-transition--ease-in"
+                   data-arrow-left-classes="fa fa-angle-left g-mr-50"
+                   data-arrow-right-classes="fa fa-angle-right g-mr-5">
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img9.jpg" alt="Image description">
+
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar. Nulla non arcu at lectus. Vestibulum fringilla velit.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img10.jpg" alt="Image description">
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img11.jpg" alt="Image description">
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img12.jpg" alt="Image description">
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img9.jpg" alt="Image description">
+
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar. Nulla non arcu at lectus. Vestibulum fringilla velit.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img10.jpg" alt="Image description">
+
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img11.jpg" alt="Image description">
+
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="js-slide g-pa-5">
+                  <div class="g-parent g-pos-rel g-overflow-hidden">
+                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img12.jpg" alt="Image description">
+
+                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
+                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End ACHIEVEMENT -->
+
+      <!-- PRODUCT -->
+      <section id="news" class="g-theme-bg-blue-dark-v1 g-pt-80">
+        <div class="container text-center g-width-780 g-color-gray-light-v2 g-mb-60">
+          <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
+            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Kami bekerja dengan keras untuk memberikan Anda solusi terbaik</h4>
+            <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-gray-light-v2 g-mb-minus-10">PRODUK KAMI</h2>
+          </div>
+
+          <p class="g-color-gray-light-v2 mb-0">Kami menyediakan secara terpadu produk-produk dari berbagai merek ternama dan teknologi berkualitas tinggi dengan harga yang kompetitif.</p>
+        </div>
+
+        <div class="container-fluid px-0">
+          <div id="carouselCus2" class="js-carousel g-line-height-0"
+               data-infinite="true"
+               data-autoplay="true"
+               data-speed="5000"
+               data-rows="2"
+               data-slides-show="4">
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img1.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img2.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img3.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img4.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img5.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img6.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img7.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img8.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img1.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img2.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img3.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img4.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img5.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img6.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img7.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="js-slide">
+              <div class="g-parent g-pos-rel g-overflow-hidden">
+                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img8.jpg" alt="Image description">
+
+                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
+                  <div class="g-flex-middle-item--bottom">
+                    <header class="g-mb-5">
+                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
+                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
+                        <a class="g-color-white" href="#">Master class of the week</a>
+                      </h3>
+                    </header>
+
+                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End PRODUCT -->
+
+      <!-- PARTNER -->
+      <section class="text-center g-py-80">
+        <div class="container">
+          <div class="container g-width-780 g-mb-60">
+            <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-45">
+              <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Our clients</h4>
+              <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">Who work with us</h2>
+            </div>
+          </div>
+
+          <div id="carouselCus3" class="js-carousel g-mb-60"
+               data-autoplay="true"
+               data-infinite="true"
+               data-slides-show="6">
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img2.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img3.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img4.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img5.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img6.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img7.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img8.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img9.png" alt="Image Description">
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End PARTNER -->
+
+@include('home.partials.foot')
 
       <a class="js-go-to u-go-to-v1" href="#"
          data-type="fixed"
@@ -198,7 +780,7 @@ Kami dapat menganalisa permasalahan Anda dan menawarkan peralatan monitoring kon
         <i class="hs-icon hs-icon-arrow-top"></i>
       </a>
     </main>
-    @include('home.partials.foot')
-   @include('home.partials.scripts')
+@include('home.partials.scripts')
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async></script>
   </body>
 </html>
