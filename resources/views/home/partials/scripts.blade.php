@@ -125,7 +125,7 @@
       });
     </script>
 
-    <!-- JS Plugins Init. -->
+    <!-- JS Plugins Init. BANNER -->
     <script>
       $(document).on('ready', function () {
         // initialization of tabs

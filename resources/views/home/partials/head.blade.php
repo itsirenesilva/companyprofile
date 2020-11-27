@@ -11,7 +11,8 @@
     <link rel="shortcut icon" href="{{asset('vendor/business')}}/favicon.ico">
 
     <!-- Google Fonts -->
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;500;700&display=swap" rel="stylesheet"> 
 
     <!-- CSS Global Compulsory -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/bootstrap/bootstrap.min.css">
@@ -24,7 +25,7 @@
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/animate.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/slick-carousel/slick/slick.css">
 
-    <!-- CSS Implementing Plugins -->
+    <!-- CSS Implementing Plugins BANNER -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/icon-line-pro/style.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
@@ -33,6 +34,9 @@
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/typedjs/typed.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/animate.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+
+    <!-- CSS Template -->
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-event.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-business.css">

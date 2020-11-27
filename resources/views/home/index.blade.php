@@ -63,15 +63,15 @@
         <div class="row no-gutters">
           <div class="hidden-lg-down col-lg-4 g-bg-img-hero" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1920/img2.jpg);"></div>
 
-          <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-blue-dark-v1">
+          <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-white-v1">
             <div class="text-center g-color-gray-light-v2 g-pa-30">
               <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                 <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">TEKNOFLUIDA</h4>
-                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">TENTANG KAMI
+                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-black g-mb-minus-10">TENTANG KAMI
                   </h2>
               </div>
 
-              <p align="justify" class="g-color-gray-light-v2 mb-0">PT. Tekno Fluida Indonesia adalah perusahaan yang memiliki tenaga-tenaga professional berkualitas dengan total pengetahuan dan pengalaman kolektif lebih dari 25 tahun di bidang industri teknologi fluida. Kami menjual peralatan kebutuhan industri, memberikan jasa engineering serta desain dan integrasi. Spesialisasi kami adalah mendesain dan mengintegrasi produk-produk ke dalam sistem teknologi fluida.</p>
+              <p align="justify" class="g-color-grey mb-0">PT. Tekno Fluida Indonesia adalah perusahaan yang memiliki tenaga-tenaga professional berkualitas dengan total pengetahuan dan pengalaman kolektif lebih dari 25 tahun di bidang industri teknologi fluida. Kami menjual peralatan kebutuhan industri, memberikan jasa engineering serta desain dan integrasi. Spesialisasi kami adalah mendesain dan mengintegrasi produk-produk ke dalam sistem teknologi fluida.</p>
             </div>
           </div>
 

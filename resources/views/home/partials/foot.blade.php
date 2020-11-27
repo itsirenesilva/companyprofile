@@ -2,7 +2,7 @@
  <footer>
         
 
-        <div class="g-color-white g-theme-bg-blue-dark-v1 g-py-60">
+        <div class="g-color-white g-theme-bg-grey-dark-v2 g-py-60">
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-lg-4">
