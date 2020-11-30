@@ -6,7 +6,7 @@
     <main>
 @include('home.partials.header')
 
-      <!-- Promo Block -->
+      <!-- BANNER -->
       <section id="home" class="g-pos-rel">
         <div class="js-carousel g-overflow-hidden g-max-height-100vh"
              data-autoplay="true"
@@ -50,7 +50,7 @@
           </div>
         </div>
       </section>
-      <!-- End Promo Block -->
+      <!-- End BANNER -->
 
 
       <!-- ABOUT US, VISI, MISI, SERVICE -->
@@ -89,7 +89,7 @@
 
                 <div class="g-pa-30">
                   <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">MISI</h3>
-                  <p class="g-color-gray-light-v2 g-mb-10">Dengan keseluruhan pengetahuan teknis dan keahlian engineering, kami selalu berupaya untuk memberikan pelayanan yang lebih dari ekspektasi di industri ini. Kami memberikan solusi teknik dengan kualitas terbaik, menyediakan dukungan dan servis yang terbaik.</p>
+                  <p class="g-color-white g-mb-10">Dengan keseluruhan pengetahuan teknis dan keahlian engineering, kami selalu berupaya untuk memberikan pelayanan yang lebih dari ekspektasi di industri ini. Kami memberikan solusi teknik dengan kualitas terbaik, menyediakan dukungan dan servis yang terbaik.</p>
                 </div>
               </div>
 
@@ -98,7 +98,7 @@
 
                 <div class="g-pa-30">
                   <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">SERVICE</h3>
-                  <p class="g-color-gray-light-v2 g-mb-10">Dalam menjalin kerjasama dengan pelanggan, kami mendedikasikan diri sepenuhnya untuk selalu mencari solusi yang paling efektif dan untuk tetap melakukan penyempurnaan di setiap masalah dari unit-unit engineering di pelanggan kami.</p>
+                  <p class="g-color-white g-mb-10">Dalam menjalin kerjasama dengan pelanggan, kami mendedikasikan diri sepenuhnya untuk selalu mencari solusi yang paling efektif dan untuk tetap melakukan penyempurnaan di setiap masalah dari unit-unit engineering di pelanggan kami.</p>
                 </div>
               </div>
             </div>
@@ -133,7 +133,7 @@
                 </div>
 
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">1. PENGHEMATAN BIAYA</h3>
-                <p class="g-color-gray-light-v2 mb-0">Dimulai dari tahap perencanaan, konstruksi sampai kepada tahap pemeliharaan, kami menerapkan sistem pengadaan barang yang komprehensif, yang memungkinkan pelanggan untuk mendapatkan penawaran yang terbaik dan dengan keuntungan finansial dalam jangka panjang.</p>
+                <p class="g-color-white mb-0">Dimulai dari tahap perencanaan, konstruksi sampai kepada tahap pemeliharaan, kami menerapkan sistem pengadaan barang yang komprehensif, yang memungkinkan pelanggan untuk mendapatkan penawaran yang terbaik dan dengan keuntungan finansial dalam jangka panjang.</p>
               </div>
               <!-- End Icon Blocks -->
             </div>
@@ -151,8 +151,7 @@
                 </div>
 
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">2. DAPAT DIANDALKAN</h3>
-                <p class="g-color-white mb-0">Team marketing dan service kami akan mendampingi pelanggan sebelum, selama dan sesudah proyek. Perencanaan, instalasi dan prosedur eksekusi dapat dilakukan oleh Team engineering kami yang berpengalaman dan ahli dibidangnya.</p>
-                <br>              
+                <p class="g-color-white mb-0">Team marketing dan service kami akan mendampingi pelanggan sebelum, selama dan sesudah proyek. Perencanaan, instalasi dan prosedur eksekusi dapat dilakukan oleh Team engineering kami yang berpengalaman dan ahli dibidangnya.</p>             
               </div>
               <!-- End Icon Blocks -->
             </div>
@@ -175,6 +174,7 @@
 
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">3. KEAMANAN DAN KUALITAS</h3>
                 <p class="g-color-white mb-0">Kami berusaha memberikan desain, solusi dan implementasi sistem yang aman dan berkualitas baik. Kualitas sistem yang kami ajukan harus dapat melewati tes ketahanan dan masa aktif (life time).</p>
+              <br>
               </div>
               <!-- End Icon Blocks -->
             </div>
@@ -193,6 +193,7 @@
 
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">4. MITRA KEPERCAYAAN</h3>
                 <p class="g-color-white mb-0">Komitmen utama kami adalah membangun hubungan baik dan dalam jangka waktu lama dengan pelanggan-pelanggan dan supplier-supplier kami, dengan berlandaskan kepercayaan dan keuntungan bersama.</p>
+              <br>
               </div>
               <!-- End Icon Blocks -->
             </div>
@@ -267,445 +268,6 @@
         </div>
       </section>
       <!-- End CERTIFICATION -->
-
-      <!-- ACHIEVEMENT -->
-      <section id="projects" class="g-pt-115 g-pb-80">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 g-mb-40 g-mb-0--lg">
-              <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
-                <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">title</h4>
-                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">ACHIEVEMENT</h2>
-              </div>
-
-              <p  class="g-color-grey g-mb-10">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in. Donec in blandit dolor. Vivamus a fringilla lorem, vel faucibus ante. Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor lorem eros vel odio.</p>
-              <p class="g-color-grey mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio. Vivamus at risus quis leo tincidunt scelerisque non et erat.</p>
-            </div>
-
-            <div class="col-lg-8">
-              <div id="carouselCus1" class="js-carousel g-line-height-0"
-                   data-infinite="true"
-                   data-speed="5000"
-                   data-rows="2"
-                   data-slides-show="2"
-                   data-arrows-classes="u-arrow-v1 g-pos-abs g-bottom-100x g-right-0 g-width-35 g-height-35 g-font-size-default g-color-gray g-color-white--hover g-bg-gray-light-v5 g-bg-primary--hover g-mb-5 g-transition-0_2 g-transition--ease-in"
-                   data-arrow-left-classes="fa fa-angle-left g-mr-50"
-                   data-arrow-right-classes="fa fa-angle-right g-mr-5">
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img9.jpg" alt="Image description">
-
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar. Nulla non arcu at lectus. Vestibulum fringilla velit.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img10.jpg" alt="Image description">
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img11.jpg" alt="Image description">
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img12.jpg" alt="Image description">
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img9.jpg" alt="Image description">
-
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar. Nulla non arcu at lectus. Vestibulum fringilla velit.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img10.jpg" alt="Image description">
-
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img11.jpg" alt="Image description">
-
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="js-slide g-pa-5">
-                  <div class="g-parent g-pos-rel g-overflow-hidden">
-                    <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img12.jpg" alt="Image description">
-
-                    <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
-                      <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End ACHIEVEMENT -->
-
-      <!-- PRODUCT -->
-      <section id="news" class="g-theme-bg-grey-dark-v2 g-pt-60">
-        <div class="container text-center g-width-780 g-color-gray-light-v2 g-mb-60">
-          <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-20">
-            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Kami bekerja dengan keras untuk memberikan Anda solusi terbaik</h4>
-            <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">PRODUK KAMI</h2>
-          </div>
-
-          <p class="g-color-white mb-0">Kami menyediakan secara terpadu produk-produk dari berbagai merek ternama dan teknologi berkualitas tinggi dengan harga yang kompetitif.</p>
-        </div>
-
-        <div class="container-fluid px-0">
-          <div id="carouselCus2" class="js-carousel g-line-height-0"
-               data-infinite="true"
-               data-autoplay="true"
-               data-speed="5000"
-               data-rows="2"
-               data-slides-show="4">
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img1.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img2.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img3.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img4.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img5.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img6.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img7.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img8.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img1.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img2.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img3.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img4.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img5.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img6.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img7.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="js-slide">
-              <div class="g-parent g-pos-rel g-overflow-hidden">
-                <img class="img-fluid g-transform-scale-1_1--parent-hover g-transition-0_3 g-transition--ease-in" src="{{asset('vendor/business')}}/assets/img-temp/400x269/img8.jpg" alt="Image description">
-
-                <div class="g-pos-abs g-top-0 g-left-0 g-flex-middle w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-brd-around g-brd-10 g-brd-white g-pa-30 g-transition-0_3 g-transition--ease-in">
-                  <div class="g-flex-middle-item--bottom">
-                    <header class="g-mb-5">
-                      <h4 class="g-font-weight-700 g-font-size-12 g-color-gray-light-v4 g-mb-5">May 20, 2017</h4>
-                      <h3 class="text-uppercase g-font-weight-700 g-font-size-18 mb-0">
-                        <a class="g-color-white" href="#">Master class of the week</a>
-                      </h3>
-                    </header>
-
-                    <p class="g-color-gray-light-v4 mb-0">By Kate Lee for Business</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End PRODUCT -->
 
       <!-- PARTNER -->
       <section class="text-center g-py-80">

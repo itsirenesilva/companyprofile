@@ -72,37 +72,41 @@
                 </article>
               </div>
 
-              <div class="col-md-6 col-lg-3">
-                <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-20">Useful Links</h2>
-                <ul class="list-unstyled g-font-size-default g-color-white-opacity-0_6 g-mb-30 g-mb-0--md">
-                  <li class="g-pos-rel g-pl-10 g-mb-5">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Fusce dolor libero, efficitur et lobortis</a>
-                  </li>
-                  <li class="g-pos-rel g-pl-10 g-mb-5">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Proin fermentum turpis eget nisi</a>
-                  </li>
-                  <li class="g-pos-rel g-pl-10 g-mb-5">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Mauris sodales tellus vel felis dapibus</a>
-                  </li>
-                  <li class="g-pos-rel g-pl-10 g-mb-5">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Ut pulvinar tellus sed elit luctus</a>
-                  </li>
-                  <li class="g-pos-rel g-pl-10 g-mb-5">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Proin sollicitudin turpis in massa rutrum</a>
-                  </li>
-                  <li class="g-pos-rel g-pl-10 mb-0">
-                    <i class="g-absolute-centered--y g-left-0">-</i>
-                    <a class="g-color-white-opacity-0_6 g-color-white--hover g-text-underline--none--hover" href="#">Vestibulum semper</a>
-                  </li>
-                </ul>
-              </div>
+              <!-- Servis Unggulan -->
+              <div class="col-md-6 col-lg-2 g-mb-30 g-mb-0--lg">
+                <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-20">Servis Spesial Kami</h2>
 
-              <div class="col-md-6 col-lg-3">
+                <article class="media g-mb-15">
+                  <a class="d-flex g-mr-10" href="#">
+                    <img class="img-fluid g-width-75 g-height-75" src="{{asset('vendor/business')}}/assets/img-temp/75x75/img1.jpg" alt="Image Description">
+                  </a>
+
+              <div class="media-body d-flex align-self-center g-font-size-10">
+                <div class="w-100">
+                  <h3 class="h6 text-uppercase g-font-weight-700 g-font-size-10 mb-0">
+                     <a class="g-color-white" href="#">Biodiesel</a>
+                  </h3>
+                </div>
+              </div>
+              </article>
+
+              <article class="media mb-0">
+                <a class="d-flex g-mr-10" href="#">
+                <img class="img-fluid g-width-75 g-height-75" src="{{asset('vendor/business')}}/assets/img-temp/75x75/img2.jpg" alt="Image description">
+                </a>
+
+              <div class="media-body d-flex align-self-center g-font-size-10">
+               <div class="w-100">
+                <h3 class="h6 text-uppercase g-font-weight-700 g-font-size-10 mb-0">
+                  <a class="g-color-white" href="#">Hydraulic Power</a>
+                </h3>
+               </div>
+              </div>
+              </article>
+              </div>
+            <!-- End Servis Unggulan -->
+
+        <div class="col-md-6 col-lg-4">
                 <!-- Google (Map) [custom] -->
         <div class="g-pos-rel g-height-250">
           <div id="gMap" class="js-g-map g-pos-abs w-100 h-100"
