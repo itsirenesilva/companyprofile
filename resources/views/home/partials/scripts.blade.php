@@ -165,9 +165,7 @@
         // initialization of text animation (typing)
         $(".u-text-animation.u-text-animation--typing").typed({
           strings: [
-            "awesome template",
-            "perfect template",
-            "just like a boss"
+            "berkarir di teknofluida"
           ],
           typeSpeed: 60,
           loop: true,

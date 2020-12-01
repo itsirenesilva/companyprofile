@@ -32,14 +32,25 @@
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/fancybox/jquery.fancybox.min.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/typedjs/typed.css">
-    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/animate.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+
+    <!-- CSS Implementing Plugins SERVICE -->
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/chosen/chosen.css">
+
+    <!-- Revolution Slider -->
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/css/settings.css">
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/css/layers.css">
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/css/navigation.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-event.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-business.css">
+
+    <!-- CSS Template -->
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-agency.css">
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/custom.css">

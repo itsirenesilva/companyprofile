@@ -6,7 +6,7 @@
     <main>
 @include('home.partials.header')
 
- 
+      
 
 @include('home.partials.foot')
 

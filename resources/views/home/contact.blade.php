@@ -14,33 +14,33 @@
               <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-black g-mb-minus-10">Kontak Kami</h2>
             </div>
 
-            <p class="g-color-black mb-0">Jika Anda tertarik dengan Solusi kami, Anda bisa menghubungi kami melalui : </p>
+            <p class="g-color-grey mb-0">Jika Anda tertarik dengan Solusi kami, Anda bisa menghubungi kami melalui : </p>
           </div>
 
           <div class="container">
             <div class="row">
               <div class="col-sm-3 g-px-15 g-py-30 g-py-0--md">
                 <i class="icon-globe d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
-                <h3 class="text-uppercase g-font-size-default g-color-black g-mb-5">Alamat</h3>
-                <strong class="g-font-size-default g-color-black">Kawasan Multiguna - Taman Tekno BSD - Sektor XI Blok H2 No. 3A
+                <h3 class="text-uppercase g-font-size-default g-color-grey g-mb-5">Alamat</h3>
+                <strong class="g-font-size-default g-color-grey">Kawasan Multiguna - Taman Tekno BSD - Sektor XI Blok H2 No. 3A
 15314 Tangerang
 Indonesia</strong>
               </div>
 
               <div class="col-sm-3 g-brd-top g-brd-top-none--md g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
                 <i class="icon-call-in d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
-                <h3 class="text-uppercase g-font-size-default g-color-black g-mb-5">Telepon</h3>
-                <strong class="g-font-size-default g-color-black">+62-21-75876580</strong>
+                <h3 class="text-uppercase g-font-size-default g-color-grey g-mb-5">Telepon</h3>
+                <strong class="g-font-size-default g-color-grey">+62-21-75876580</strong>
               </div>
               <div class="col-sm-3 g-brd-top g-brd-top-none--md g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
                 <i class="icon-envelope d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
-                <h3 class="text-uppercase g-font-size-default g-color-black g-mb-5">Email</h3>
-                <a class="g-font-size-default g-color-black" href="mailto:info@unify.com"><strong>info@teknofluida.id</strong></a>
+                <h3 class="text-uppercase g-font-size-default g-color-grey g-mb-5">Email</h3>
+                <a class="g-font-size-default g-color-grey" href="mailto:info@unify.com"><strong>info@teknofluida.id</strong></a>
               </div>
               <div class="col-sm-3 g-brd-top g-brd-top-none--md g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
                 <i class="icon-earphones-alt d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
-                <h3 class="text-uppercase g-font-size-default g-color-black g-mb-5">Toll free</h3>
-                <strong class="g-font-size-default g-color-black">@unify</strong>
+                <h3 class="text-uppercase g-font-size-default g-color-grey g-mb-5">Toll free</h3>
+                <strong class="g-font-size-default g-color-grey">@unify</strong>
               </div>
             </div>
           </div>

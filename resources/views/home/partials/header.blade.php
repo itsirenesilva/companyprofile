@@ -27,7 +27,7 @@
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="about" class="nav-link p-0">Tentang Kami</a>
                   </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
+                  <li class="nav-item g-mx-15--lg active g-mb-7 g-mb-0--lg">
                     <a href="product" class="nav-link p-0">Produk</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
