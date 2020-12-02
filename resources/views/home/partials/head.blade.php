@@ -34,9 +34,6 @@
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/typedjs/typed.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/hs-megamenu/src/hs.megamenu.css">
 
-    <!-- CSS Implementing Plugins SERVICE -->
-    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/chosen/chosen.css">
-
     <!-- Revolution Slider -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/vendor/revolution-slider/revolution/css/settings.css">
@@ -50,7 +47,7 @@
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-business.css">
 
     <!-- CSS Template -->
-    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-agency.css">
+    <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/styles.op-accounting.css">
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="{{asset('vendor/business')}}/assets/css/custom.css">

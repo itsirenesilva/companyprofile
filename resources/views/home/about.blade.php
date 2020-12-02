@@ -56,7 +56,7 @@
       <!-- ABOUT US, VISI, MISI, SERVICE -->
       <section id="about" class="container-fluid px-0">
         <div class="row no-gutters">
-          <div class="hidden-lg-down col-lg-4 g-bg-img-hero" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1920/img2.jpg);"></div>
+          <div class="hidden-lg-down col-lg-4 g-bg-img-hero" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1920/tentang_kami_1600x1920.jpg);"></div>
 
           <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-grey-dark-v2">
             <div class="text-center g-color-gray-light-v2 g-pa-30">
@@ -76,7 +76,7 @@
                  data-slides-show="true"
                  data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-30">
               <div class="js-slide">
-                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img1.jpg" alt="Image description">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/visi_450x300.jpg" alt="Image description">
 
                 <div class="g-pa-30">
                   <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">VISI</h3>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="js-slide">
-                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img2.jpg" alt="Image description">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/misi_450x300.jpg" alt="Image description">
 
                 <div class="g-pa-30">
                   <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">MISI</h3>
@@ -94,7 +94,7 @@
               </div>
 
               <div class="js-slide">
-                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/img3.jpg" alt="Image description">
+                <img class="img-fluid w-100" src="{{asset('vendor/business')}}/assets/img-temp/450x300/service_450x300.jpg" alt="Image description">
 
                 <div class="g-pa-30">
                   <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">SERVICE</h3>
@@ -284,39 +284,27 @@
                data-infinite="true"
                data-slides-show="6">
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/rexroth.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img2.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/rotelmann.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img3.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/tdz.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img4.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/teknofluida.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img5.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/universalhydraulik.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img6.png" alt="Image Description">
-            </div>
-
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img7.png" alt="Image Description">
-            </div>
-
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img8.png" alt="Image Description">
-            </div>
-
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img9.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/vsehbe.png" alt="Image Description">
             </div>
           </div>
         </div>
