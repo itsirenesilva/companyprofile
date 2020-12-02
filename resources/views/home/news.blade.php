@@ -35,6 +35,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -44,6 +45,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -54,6 +56,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -64,6 +67,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -75,6 +79,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar. Nulla non arcu at lectus. Vestibulum fringilla velit.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -86,6 +91,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Support &amp; development</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Sed feugiat porttitor nunc, non dignissim ipsum vestibulum in nulla non arcu at lectus.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -97,6 +103,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Boston global</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">In rutrum tellus vitae blandit lacinia. Phasellus eget sapien odio. Phasellus eget sapien odio.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>
@@ -108,6 +115,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">Marketing group</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Nunc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor.</p>
+                      <a class="u-link-v2" href="article"></a>
                     </div>
                   </div>
                 </div>

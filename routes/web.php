@@ -18,5 +18,6 @@ Route::get('/service', 'Home\HomeController@service')->name('service');
 Route::get('/news', 'Home\HomeController@news')->name('news');
 Route::get('/career', 'Home\HomeController@career')->name('career');
 Route::get('/contact', 'Home\HomeController@contact')->name('contact');
+Route::get('/article', 'Home\HomeController@article')->name('article');
 
 Auth::routes();
