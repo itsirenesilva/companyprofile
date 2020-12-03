@@ -13,8 +13,8 @@
              data-infinite="true"
              data-fade="true"
              data-speed="5000">
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1075/img2.jpg);"></div>
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1075/img2.jpg);"></div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1075/banner_4_1600x1075px.jpg);"></div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1600x1075/banner_8_1600x1075px.jpg);"></div>
         </div>
 
         <div class="g-absolute-centered w-100">
@@ -206,59 +206,46 @@
       <section id="services" class="g-py-80 g-theme-bg-grey-dark-v2">
         <div class="container">
           <div class="text-uppercase text-center u-heading-v2-4--bottom g-brd-primary g-mb-80">
-            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">title</h4>
+            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Why you should trust us</h4>
             <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-color-white g-font-size-40 g-mb-minus-10">CERTIFICATION</h2>
           </div>
 
           <!-- Icon Blocks -->
           <div class="row no-gutters">
-            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--lg g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-6 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--lg g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-primary g-font-size-40 g-mb-15">
-                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/logo_ISO_ACS.png" alt="Image Description">
                 </span>
-                <h3 class="h5 text-uppercase g-color-white g-mb-10">Analisys</h3>
+                <h3 class="h5 text-uppercase g-color-white g-mb-10">ISO 9001</h3>
 
                 <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
             </div>
 
-            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-6 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-primary g-font-size-40 g-mb-15">
-                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/Logo_LPJK.png" alt="Image Description">
                 </span>
-                <h3 class="h5 text-uppercase g-color-white g-mb-10">Strategy</h3>
+                <h3 class="h5 text-uppercase g-color-white g-mb-10">Lembaga Pengembangan Jasa Konstruksi</h3>
 
                 <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
             </div>
 
-            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-6 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-primary g-font-size-40 g-mb-15">
-                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/Logo_OHS_CSMS.png" alt="Image Description">
                 </span>
-                <h3 class="h5 text-uppercase g-color-white g-mb-10">Social media</h3>
+                <h3 class="h5 text-uppercase g-color-white g-mb-10">Occupational Health and Safety</h3>
                 
-                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
-              </div>
-              <!-- End Icon Blocks -->
-            </div>
-
-            <div class="col-md-6 col-lg-3 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
-              <!-- Icon Blocks -->
-              <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
-                <span class="d-block g-color-primary g-font-size-40 g-mb-15">
-                <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/img1.png" alt="Image Description">
-                </span>
-                <h3 class="h5 text-uppercase g-color-white g-mb-10">Marketing</h3>
-
                 <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
@@ -306,6 +293,55 @@
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
               <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/vsehbe.png" alt="Image Description">
             </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/argohytos.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/beinlich.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/caproni.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/dropsa.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/filtrationgroup.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/GWB.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/hydrotechnik.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/hylok.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/kaori.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/kracht.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/oleotec.png" alt="Image Description">
+            </div>
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="{{asset('vendor/business')}}/assets/img-temp/200x150/ponar.png" alt="Image Description">
+            </div>
+
           </div>
         </div>
       </section>
