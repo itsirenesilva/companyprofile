@@ -125,9 +125,9 @@
               <div class="g-pos-rel g-parent g-theme-bg-grey-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
                 <div class="hidden-xs-down g-absolute-centered--y g-left-0">
                   <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
-                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img1.jpg);"></span>
+                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/1-calculator-whitebackgr.jpg);"></span>
                     <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-fire"></i>
+                      <i class="icon-calculator"></i>
                     </span>
                   </div>
                 </div>
@@ -145,7 +145,7 @@
                   <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
                     <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img2.jpg);"></span>
                     <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-energy"></i>
+                      <i class="icon-like"></i>
                     </span>
                   </div>
                 </div>
@@ -167,7 +167,7 @@
                   <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
                     <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img3.jpg);"></span>
                     <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-rocket"></i>
+                      <i class="icon-lock"></i>
                     </span>
                   </div>
                 </div>
@@ -186,7 +186,7 @@
                   <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
                     <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/80x80/img4.jpg);"></span>
                     <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-layers"></i>
+                      <i class="icon-people"></i>
                     </span>
                   </div>
                 </div>
