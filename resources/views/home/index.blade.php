@@ -502,6 +502,69 @@
       </section>
       <!-- End PRODUCT -->
 
+      <div class="g-py-80">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
+                <!-- Article -->
+                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
+                  <!-- Article Image -->
+                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img1.jpg" alt="Image description">
+                  <!-- End Article Image -->
+
+                  <!-- Article Content -->
+                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
+                    <div class="text-uppercase g-flex-middle-item">
+                      <h3 class="d-inline-block g-font-weight-700 g-font-size-18 g-color-white g-brd-bottom g-brd-2 g-brd-primary g-mb-20">Face massage</h3>
+                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-40 g-mb-30">40% Off</strong>
+                      <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-brd-none rounded-0 g-py-10 g-px-25" href="#">Contact us</a>
+                    </div>
+                  </div>
+                  <!-- End Article Content -->
+                </article>
+                <!-- End Article -->
+              </div>
+
+              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
+                <!-- Article -->
+                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
+                  <!-- Article Image -->
+                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img2.jpg" alt="Image description">
+                  <!-- End Article Image -->
+
+                  <!-- Article Content -->
+                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
+                    <div class="text-uppercase g-flex-middle-item">
+                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white g-mb-5">20% Discount</h3>
+                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-28 g-mb-10">Products of spa</strong>
+                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white mb-0">When you buy over 100$</h3>
+                    </div>
+                  </div>
+                  <!-- End Article Content -->
+                </article>
+                <!-- End Article -->
+              </div>
+
+              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
+                <!-- Article -->
+                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
+                  <!-- Article Image -->
+                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img2.jpg" alt="Image description">
+                  <!-- End Article Image -->
+
+                  <!-- Article Content -->
+                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
+                    <div class="text-uppercase g-flex-middle-item">
+                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white g-mb-5">20% Discount</h3>
+                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-28 g-mb-10">Products of spa</strong>
+                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white mb-0">When you buy over 100$</h3>
+                    </div>
+                  </div>
+                  <!-- End Article Content -->
+                </article>
+                <!-- End Article -->
+              </div>
+
       <!-- PARTNER -->
       <section class="text-center g-py-80">
         <div class="container">
@@ -592,6 +655,8 @@
         </div>
       </section>
       <!-- End PARTNER -->
+
+
 
 @include('home.partials.foot')
 

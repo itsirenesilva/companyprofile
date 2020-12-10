@@ -1,4 +1,4 @@
- <!-- JS Global Compulsory -->
+    <!-- JS Global Compulsory -->
     <script src="{{asset('vendor/business')}}/assets/vendor/jquery/jquery.min.js"></script>
     <script src="{{asset('vendor/business')}}/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
     <script src="{{asset('vendor/business')}}/assets/vendor/jquery.easing/js/jquery.easing.js"></script>
