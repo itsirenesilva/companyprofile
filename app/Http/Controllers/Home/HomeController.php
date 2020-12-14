@@ -46,4 +46,8 @@ class HomeController extends Controller
         return view('home.article');
     }
 
+    public function achievement() {
+        return view('home.achievement');
+    }
+
 }

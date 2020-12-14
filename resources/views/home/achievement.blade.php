@@ -13,7 +13,7 @@
             <div class="col-lg-4 g-mb-40 g-mb-0--lg">
               <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                 <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">title</h4>
-                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">NEWS</h2>
+                <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">ACHIEVEMENT</h2>
               </div>
 
               <p  class="g-color-grey g-mb-10">Proyek-proyek di bawah ini akan memberikan informasi singkat mengenai pengalaman kami dalam rangka memberikan servis terbaik untuk pelanggan-pelanggan kami.</p>
@@ -35,7 +35,7 @@
                     <div class="g-pos-abs g-top-0 g-left-0 w-100 h-100 g-bg-primary-opacity-0_8 g-color-white opacity-0 g-opacity-1--parent-hover g-pa-25 g-transition-0_3 g-transition--ease-in">
                       <h3 class="text-uppercase g-font-weight-700 g-font-size-16 g-color-white mb-0">The moon ltd</h3>
                       <p class="g-font-size-12 g-color-gray-light-v4 mb-0">Quisque rhoncus euismod pulvinar</p>
-                      <a class="u-link-v2" href="news1"></a>
+                      <a class="u-link-v2" href="achievement1"></a>
                     </div>
                   </div>
                 </div>

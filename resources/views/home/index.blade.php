@@ -7,50 +7,51 @@
 @include('home.partials.header')
 
       <!-- Promo Block -->
-      <section class="g-bg-cover g-bg-pos-center g-bg-img-hero g-bg-black-opacity-0_1--after g-flex-centered g-py-150" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1920x1080/img12.jpg);">
-        <div class="container g-z-index-1">
+      <section class="g-bg-cover g-flex-centered g-bg-pos-top-center g-bg-img-hero g-bg-black-opacity-0_3--after" style="background-image: url({{asset('vendor/business')}}/assets/img-temp/1920x1080/img24.jpg);" data-calc-target="#js-header">
+        <div class="container g-z-index-1 g-py-100">
           <div class="row">
-            <div class="col-md-4 align-self-center g-overflow-hidden g-mb-30 g-mb-0--md">
-              <!-- Promo Block Content -->
-              <h2 class="g-color-white g-font-size-30 g-font-size-45--md text-uppercase g-line-height-1 g-mb-5" data-animation="fadeInUp" data-animation-delay="200" data-animation-duration="1500">Amazing</h2>
-              <h3 class="g-color-primary g-font-weight-700 g-font-size-40 g-font-size-60--md text-uppercase g-line-height-1 g-mb-20" data-animation="fadeInLeft" data-animation-delay="500" data-animation-duration="2000">Features</h3>
-              <p class="g-color-white-opacity-0_8 g-font-size-28 g-mb-15" data-animation="fadeInUp" data-animation-delay="1100" data-animation-duration="1500">Unify bootstrap template</p>
-              <div data-animation="fadeInRight" data-animation-delay="1400" data-animation-duration="1500">
-                <p class="g-color-white-opacity-0_8 g-font-size-18 g-mb-20 g-mb-0--md">Youtube, Vimeo and custom iframe supported</p>
-              </div>
-              <!-- End Promo Block Content -->
-            </div>
+            <div class="col-lg-5 align-self-center g-mb-40 g-mb-0--lg">
+              <div class="g-bg-white g-rounded-5 g-pa-40">
+                <h3 class="h6 g-color-black g-font-weight-600 text-uppercase text-center g-mb-25">Find Your Product</h3>
 
-            <div class="col-md-8 g-overflow-hidden">
-              <div class="g-brd-around g-brd-7 g-brd-white" data-animation="fadeInRight" data-animation-delay="1700" data-animation-duration="1500">
-                <!-- Promo Block - Video -->
-                <div class="embed-responsive embed-responsive-16by9">
-                  <video class="js-video-audio u-video-v1 mb-0" poster="{{asset('vendor/business')}}/assets/media-temp/video-bg/video-bg-poster.jpg" preload data-plyr='{"controls" : ["play-large"]}'>
-                    <source src="{{asset('vendor/business')}}/assets/media-temp/video-bg/video-bg.mp4" type="video/mp4;">
-                    <source src="{{asset('vendor/business')}}/assets/media-temp/video-bg/video-bg.webm" type="video/webm;">
-                    <a href="{{asset('vendor/business')}}/assets/media-temp/video-bg/video-bg.mp4" download>Download</a>
-                  </video>
-                </div>
-                <!-- End Promo Block - Video -->
+                <!-- Promo Block - Form -->
+                <form>
+                  <div class="form-group g-mb-20">
+                    <a> Product Category</a>
+                    <select class="js-custom-select u-select-v1 form-control g-brd-gray-light-v5 g-color-gray-light-v1 g-bg-gray-light-v5 g-px-10 g-py-13" style="width: 100%;" data-placeholder="Product Type" data-control-classes="g-color-gray-dark-v2 g-bg-gray-light-v5" data-disable-search="1" data-open-icon="fa fa-angle-down" data-close-icon="fa fa-angle-up">
+                      <option></option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                    </select>
+                  </div>
 
-                <!-- Promo Block - Info -->
-                <ul class="u-video-v1-info">
-                  <li class="u-video-v1-info__item">
-                    <a href="#" target="_blank">View test video</a> &copy; Test Director
-                  </li>
-                  <li class="u-video-v1-info__item">
-                    <a href="#" target="_blank">Test Director &ndash; &ldquo;test video&rdquo;</a> &copy; Test Director
-                  </li>
-                  <li class="u-video-v1-info__item">
-                    <a href="#" target="_blank"> View test video</a> on <i class="fa fa-youtube"></i> Youtube
-                  </li>
-                  <li class="u-video-v1-info__item">
-                    <a href="#" target="_blank"> View test video</a> on <i class="fa fa-vimeo"></i> Vimeo
-                  </li>
-                </ul>
-                <!-- End Promo Block - Info -->
+                  <div class="form-group g-mb-20">
+                    <a> Products</a>
+                    <select class="js-custom-select u-select-v1 form-control g-brd-gray-light-v5 g-color-gray-light-v1 g-bg-gray-light-v5 g-px-10 g-py-13" style="width: 100%;" data-placeholder="Product Type" data-control-classes="g-color-gray-dark-v2 g-bg-gray-light-v5" data-disable-search="1" data-open-icon="fa fa-angle-down" data-close-icon="fa fa-angle-up">
+                      <option></option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                    </select>
+                  </div>
+
+                  <button class="btn btn-lg btn-block u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-5 g-py-13" type="submit">Find My Product</button>
+                </form>
+                <!-- End Promo Block - Form -->
               </div>
             </div>
+
+            <!-- Promo Block - Info -->
+            <div class="col-lg-7 align-self-center g-color-white">
+              <div class="g-px-50--lg">
+                <h2 class="g-color-white g-font-weight-600 g-font-size-40 g-font-size-50--md text-uppercase g-line-height-1_2 g-mb-20">Planning
+                  <br>&amp; Delivering</h2>
+                <p class="lead g-color-white-opacity-0_8 g-mb-35">This is where we sit down, grab a cup of coffee and dial in the details. Understanding the task at hand and ironing out the wrinkles is key.</p>
+                <a class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-5 g-px-25 g-py-15" href="#">Hire Unify</a>
+              </div>
+            </div>
+            <!-- End Promo Block - Info -->
           </div>
         </div>
       </section>
@@ -502,69 +503,6 @@
       </section>
       <!-- End PRODUCT -->
 
-      <div class="g-py-80">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
-                <!-- Article -->
-                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
-                  <!-- Article Image -->
-                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img1.jpg" alt="Image description">
-                  <!-- End Article Image -->
-
-                  <!-- Article Content -->
-                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
-                    <div class="text-uppercase g-flex-middle-item">
-                      <h3 class="d-inline-block g-font-weight-700 g-font-size-18 g-color-white g-brd-bottom g-brd-2 g-brd-primary g-mb-20">Face massage</h3>
-                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-40 g-mb-30">40% Off</strong>
-                      <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-brd-none rounded-0 g-py-10 g-px-25" href="#">Contact us</a>
-                    </div>
-                  </div>
-                  <!-- End Article Content -->
-                </article>
-                <!-- End Article -->
-              </div>
-
-              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
-                <!-- Article -->
-                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
-                  <!-- Article Image -->
-                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img2.jpg" alt="Image description">
-                  <!-- End Article Image -->
-
-                  <!-- Article Content -->
-                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
-                    <div class="text-uppercase g-flex-middle-item">
-                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white g-mb-5">20% Discount</h3>
-                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-28 g-mb-10">Products of spa</strong>
-                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white mb-0">When you buy over 100$</h3>
-                    </div>
-                  </div>
-                  <!-- End Article Content -->
-                </article>
-                <!-- End Article -->
-              </div>
-
-              <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
-                <!-- Article -->
-                <article class="text-center u-block-hover u-bg-overlay g-color-white g-bg-img-hero g-bg-black-opacity-0_3--after">
-                  <!-- Article Image -->
-                  <img class="w-100 u-block-hover__main--zoom-v1" src="{{asset('vendor/business')}}/assets/img-temp/800x867/img2.jpg" alt="Image description">
-                  <!-- End Article Image -->
-
-                  <!-- Article Content -->
-                  <div class="u-block-hover__additional u-bg-overlay__inner g-pos-abs g-flex-middle g-brd-around g-brd-2 g-brd-white-opacity-0_3 g-pa-15 g-ma-20">
-                    <div class="text-uppercase g-flex-middle-item">
-                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white g-mb-5">20% Discount</h3>
-                      <strong class="d-block text-uppercase g-line-height-1 g-font-weight-700 g-font-size-28 g-mb-10">Products of spa</strong>
-                      <h3 class="g-font-weight-700 g-font-size-16 g-color-white mb-0">When you buy over 100$</h3>
-                    </div>
-                  </div>
-                  <!-- End Article Content -->
-                </article>
-                <!-- End Article -->
-              </div>
-
       <!-- PARTNER -->
       <section class="text-center g-py-80">
         <div class="container">
@@ -655,7 +593,6 @@
         </div>
       </section>
       <!-- End PARTNER -->
-
 
 
 @include('home.partials.foot')

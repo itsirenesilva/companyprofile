@@ -19,31 +19,50 @@
               <!-- End Logo -->
 
               <!-- Navigation -->
-              <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
-                <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto">
-                  <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="{{route('home')}}" class="nav-link p-0">Home</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="about" class="nav-link p-0">Tentang Kami</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg active g-mb-7 g-mb-0--lg">
-                    <a href="product" class="nav-link p-0">Produk</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="service" class="nav-link p-0">Servis</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="news" class="nav-link p-0">Berita</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="career" class="nav-link p-0">Karir</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="contact" class="nav-link p-0">Kontak</a>
-                  </li>
-                </ul>
-              </div>
+              <div class="js-mega-menu collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
+              <ul class="navbar-nav text-uppercase g-font-weight-600 ml-auto">
+                <li class="nav-item g-mx-20--lg">
+                  <a href="{{route('home')}}" class="nav-link g-px-0">Beranda <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item g-mx-20--lg">
+                  <a href="about" class="nav-link g-px-0">Tentang Kami</a>
+                </li>
+
+                <li class="nav-item g-mx-20--lg">
+                  <a href="product" class="nav-link g-px-0">Produk</a>
+                </li>
+
+                <li class="nav-item g-mx-20--lg">
+                  <a href="service" class="nav-link g-px-0">Servis</a>
+                </li>
+
+                <li class="nav-item hs-has-sub-menu active g-mx-20--lg">
+                  <a href="#" class="nav-link g-px-0" id="nav-link-1"
+                     aria-haspopup="true"
+                     aria-expanded="false"
+                     aria-controls="nav-submenu-1"
+                  >Berita</a>
+
+                  <!-- Submenu -->
+                  <ul class="hs-sub-menu list-unstyled g-text-transform-none g-brd-top g-brd-primary g-brd-top-2 g-min-width-200 g-mt-20 g-mt-10--lg--scrolling" id="nav-submenu-1"
+                      aria-labelledby="nav-link-1">
+                    <li class="dropdown-item"><a class="nav-link g-px-0" href="achievement">Achievement</a></li>
+                    <li class="dropdown-item"><a class="nav-link g-px-0" href="article">Artikel</a></li>
+                    <li class="dropdown-item"><a class="nav-link g-px-0" href="news">Berita</a></li>
+                  </ul>
+                  <!-- End Submenu -->
+                </li>
+
+                <li class="nav-item g-mx-20--lg">
+                  <a href="career" class="nav-link g-px-0">Karir</a>
+                </li>
+
+                <li class="nav-item g-ml-20--lg g-mr-0--lg">
+                  <a href="contact" class="nav-link g-px-0">Kontak</a>
+                </li>
+              </ul>
+            </div>
               <!-- End Navigation -->
 
               <!-- Responsive Toggle Button -->

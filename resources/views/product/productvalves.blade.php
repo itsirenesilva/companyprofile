@@ -10,8 +10,8 @@
       <section class="container g-py-100">
         <div class="text-center g-mb-50">
         <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-45">
-              <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Our Products</h4>
-              <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">Product Groups</h2>
+              <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Product Groups</h4>
+              <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">Valves</h2>
             </div>
         </div>
 
@@ -23,7 +23,7 @@
               <span class="g-font-weight-600 g-font-size-12 text-uppercase">Clocks</span>
               <h3 class="h4 g-font-weight-600 mb-0">Alarm Clock</h3>
 
-              <a class="u-link-v2" href="productvalves"></a>
+              <a class="u-link-v2" href="servovalves"></a>
             </div>
             <!-- End Projects -->
           </div>
